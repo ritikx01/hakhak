@@ -1,5 +1,6 @@
 # My Web application hacking Notes
-
+If you find any image reference, `[[image_name]]`, look for it
+in parent directory.
 
 
 ### Note:
