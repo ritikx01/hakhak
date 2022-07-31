@@ -1,0 +1,1 @@
+1. Poison the Host header cache with an unopened port. THis could result in denial of service

@@ -1,0 +1,7 @@
+-v						 		 For verbosity
+-vv								For more verbosity
+-sS								TCP SYN scan (Stealth and fast)
+-sV								Determine versions/service
+-Pn								Skip Host discovery and treat host as online
+-sU								UDP scan. (To confirm a port is open). (NOT VERY ACCURATE)
+--top-ports 50			Nmap has some top ports. This will scan top 50 ports. This would show all top ports even if closed.(Use --open) 
